@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K5gQk5xM+BaMTOCM4UDlzABYWL8PcWVl6vx5nBUqokXmPBC45CpYAx+Qkz4OGDzHAeEAOU/Sy1uDlKwRUoCL+g==",
+  "dgSpecHash": "jH0cR/nX4cA/GDtH4PZ6dOmRivxbpMy1JPyl2fXD4ePxb/VAyFf7AUmcylAMOV3FtIVmcFu3a2lgykcDqPQisQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\Shared\\OrderApplication.Shared\\OrderApplication.Shared.csproj",
+  "projectFilePath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\Shared\\OrderApplication.Shared\\OrderApplication.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

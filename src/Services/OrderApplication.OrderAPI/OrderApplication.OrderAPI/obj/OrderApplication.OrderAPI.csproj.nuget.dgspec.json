@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\Services\\OrderApplication.OrderAPI\\OrderApplication.OrderAPI\\OrderApplication.OrderAPI.csproj": {}
+    "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\Services\\OrderApplication.OrderAPI\\OrderApplication.OrderAPI\\OrderApplication.OrderAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.ApplicationCore\\OrderAPI.ApplicationCore.csproj": {
+    "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.ApplicationCore\\OrderAPI.ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.ApplicationCore\\OrderAPI.ApplicationCore.csproj",
+        "projectUniqueName": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.ApplicationCore\\OrderAPI.ApplicationCore.csproj",
         "projectName": "OrderAPI.ApplicationCore",
-        "projectPath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.ApplicationCore\\OrderAPI.ApplicationCore.csproj",
+        "projectPath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.ApplicationCore\\OrderAPI.ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\selcukaltas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.ApplicationCore\\obj\\",
+        "outputPath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
@@ -39,8 +39,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\Shared\\OrderApplication.Shared\\OrderApplication.Shared.csproj": {
-                "projectPath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\Shared\\OrderApplication.Shared\\OrderApplication.Shared.csproj"
+              "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\Shared\\OrderApplication.Shared\\OrderApplication.Shared.csproj": {
+                "projectPath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\Shared\\OrderApplication.Shared\\OrderApplication.Shared.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.Infrastructure\\OrderAPI.Infrastructure.csproj": {
+    "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.Infrastructure\\OrderAPI.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.Infrastructure\\OrderAPI.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.Infrastructure\\OrderAPI.Infrastructure.csproj",
         "projectName": "OrderAPI.Infrastructure",
-        "projectPath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.Infrastructure\\OrderAPI.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.Infrastructure\\OrderAPI.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\selcukaltas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
@@ -122,8 +122,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.ApplicationCore\\OrderAPI.ApplicationCore.csproj": {
-                "projectPath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.ApplicationCore\\OrderAPI.ApplicationCore.csproj"
+              "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.ApplicationCore\\OrderAPI.ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.ApplicationCore\\OrderAPI.ApplicationCore.csproj"
               }
             }
           }
@@ -166,14 +166,14 @@
         }
       }
     },
-    "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\Services\\OrderApplication.OrderAPI\\OrderApplication.OrderAPI\\OrderApplication.OrderAPI.csproj": {
+    "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\Services\\OrderApplication.OrderAPI\\OrderApplication.OrderAPI\\OrderApplication.OrderAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\Services\\OrderApplication.OrderAPI\\OrderApplication.OrderAPI\\OrderApplication.OrderAPI.csproj",
+        "projectUniqueName": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\Services\\OrderApplication.OrderAPI\\OrderApplication.OrderAPI\\OrderApplication.OrderAPI.csproj",
         "projectName": "OrderApplication.OrderAPI",
-        "projectPath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\Services\\OrderApplication.OrderAPI\\OrderApplication.OrderAPI\\OrderApplication.OrderAPI.csproj",
+        "projectPath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\Services\\OrderApplication.OrderAPI\\OrderApplication.OrderAPI\\OrderApplication.OrderAPI.csproj",
         "packagesPath": "C:\\Users\\selcukaltas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\Services\\OrderApplication.OrderAPI\\OrderApplication.OrderAPI\\obj\\",
+        "outputPath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\Services\\OrderApplication.OrderAPI\\OrderApplication.OrderAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
@@ -201,11 +201,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.ApplicationCore\\OrderAPI.ApplicationCore.csproj": {
-                "projectPath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.ApplicationCore\\OrderAPI.ApplicationCore.csproj"
+              "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.ApplicationCore\\OrderAPI.ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.ApplicationCore\\OrderAPI.ApplicationCore.csproj"
               },
-              "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.Infrastructure\\OrderAPI.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.Infrastructure\\OrderAPI.Infrastructure.csproj"
+              "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.Infrastructure\\OrderAPI.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.Infrastructure\\OrderAPI.Infrastructure.csproj"
               }
             }
           }
@@ -271,14 +271,14 @@
         }
       }
     },
-    "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\Shared\\OrderApplication.Shared\\OrderApplication.Shared.csproj": {
+    "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\Shared\\OrderApplication.Shared\\OrderApplication.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\Shared\\OrderApplication.Shared\\OrderApplication.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\Shared\\OrderApplication.Shared\\OrderApplication.Shared.csproj",
         "projectName": "OrderApplication.Shared",
-        "projectPath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\Shared\\OrderApplication.Shared\\OrderApplication.Shared.csproj",
+        "projectPath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\Shared\\OrderApplication.Shared\\OrderApplication.Shared.csproj",
         "packagesPath": "C:\\Users\\selcukaltas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\Shared\\OrderApplication.Shared\\obj\\",
+        "outputPath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\Shared\\OrderApplication.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",

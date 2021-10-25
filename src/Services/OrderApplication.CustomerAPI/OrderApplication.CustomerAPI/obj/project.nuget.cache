@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dr7eg0S/kkWqJLBNkBhwevw35D0Tt4yqxh2GoLQfrwhSgwu+eAxo56NA6TBvVFEB/sutrhvJ3NMZLF1Z0LkIpg==",
+  "dgSpecHash": "SGqOyIaSaq9aaBSp1MH6iKUXrisjLqcAmTjIxsIj+fCnRZrgdHG81/N3+9ZlAXcgj0DPfcCb8XREwglL5ElzGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\Services\\OrderApplication.CustomerAPI\\OrderApplication.CustomerAPI\\OrderApplication.CustomerAPI.csproj",
+  "projectFilePath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\Services\\OrderApplication.CustomerAPI\\OrderApplication.CustomerAPI\\OrderApplication.CustomerAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\selcukaltas\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\selcukaltas\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nVnn7gfVGJXstPdM1P4UA0+Fz3s1nBdsNpD0l8Gqixwq/c/9RMyoSM1K9+ZgQJWDE5vWHQba+NsZ5fD01cwkfA==",
+  "dgSpecHash": "d2dJjckurp548sEdV7/cqHVwM+9KkVAifqMoZhjjzxNMp8ZmU0lynA4tyPw6WOqRUUHXEzseM5kNcYpGaFZVCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\OrderApplication.GatewayAPI\\OrderApplication.GatewayAPI.csproj",
+  "projectFilePath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\OrderApplication.GatewayAPI\\OrderApplication.GatewayAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\selcukaltas\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\selcukaltas\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",

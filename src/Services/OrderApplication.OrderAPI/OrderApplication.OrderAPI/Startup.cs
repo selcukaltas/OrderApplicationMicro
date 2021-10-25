@@ -13,6 +13,7 @@ using Newtonsoft.Json;
 using OrderAPI.ApplicationCore.Interfaces;
 using OrderAPI.ApplicationCore.Mapper;
 using OrderAPI.ApplicationCore.Middleware;
+using OrderAPI.ApplicationCore.Schema;
 using OrderAPI.ApplicationCore.Services;
 using OrderAPI.Infrastructure;
 using OrderApplication.Shared.Repository;
@@ -44,6 +45,7 @@ namespace OrderApplication.OrderAPI
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "OrderApplication.OrderAPI", Version = "v1" });
+                c.SchemaFilter<IgnoreReadOnlySchemaFilter>();
             });
             services.AddDbContext<OrderDbContext>(x => x.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")), ServiceLifetime.Transient);
             services.AddAutoMapper(typeof(OrderProfile));

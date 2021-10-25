@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Py57JivZ8kKHsLrRK9BrjC1G5SK2au36lJhmf6CTmeKqzhyvXcFNl7HOGo3fqHeIUHs9Yk8bj+bfjIG2Sa+ag==",
+  "dgSpecHash": "CZvT3/jFsOtgSVWgPmmkE2nVcc+RZnIjRNGINsb3nN0bdSPt74enm6STiOt92b870FV90kevNEtOp2GpbiIzew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.Infrastructure\\OrderAPI.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\selcukaltas\\source\\repos\\OrderApplication\\OrderApplicationMicro\\src\\Services\\OrderApplication.OrderAPI\\OrderAPI.Infrastructure\\OrderAPI.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\selcukaltas\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\selcukaltas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
