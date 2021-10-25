@@ -5,6 +5,9 @@ This project micro service implementation for order and customer domains. The dd
 
 * .NET 5
 * .SQLSERVER
+# How to run
+Solution properties and multiple startup project customer api, order api and gateway api
+![MultipleStart](https://user-images.githubusercontent.com/65852808/138621437-db47a1da-4caf-419e-9e2e-d4d0197fc80e.png)
 
 # Gateway
 Created gateway with ocelot also i use MMLib.SwaggerForOcelot so you can manage your microservices from gateway swagger easily you can see the endpoints below from gateway
