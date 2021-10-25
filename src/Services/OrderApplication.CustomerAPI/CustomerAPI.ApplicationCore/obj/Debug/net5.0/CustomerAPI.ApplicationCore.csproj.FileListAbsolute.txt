@@ -1,0 +1,15 @@
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.CustomerAPI\CustomerAPI.ApplicationCore\bin\Debug\net5.0\CustomerAPI.ApplicationCore.deps.json
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.CustomerAPI\CustomerAPI.ApplicationCore\bin\Debug\net5.0\CustomerAPI.ApplicationCore.dll
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.CustomerAPI\CustomerAPI.ApplicationCore\bin\Debug\net5.0\ref\CustomerAPI.ApplicationCore.dll
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.CustomerAPI\CustomerAPI.ApplicationCore\bin\Debug\net5.0\CustomerAPI.ApplicationCore.pdb
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.CustomerAPI\CustomerAPI.ApplicationCore\bin\Debug\net5.0\OrderApplication.Shared.dll
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.CustomerAPI\CustomerAPI.ApplicationCore\bin\Debug\net5.0\OrderApplication.Shared.pdb
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.CustomerAPI\CustomerAPI.ApplicationCore\obj\Debug\net5.0\CustomerAPI.ApplicationCore.csprojAssemblyReference.cache
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.CustomerAPI\CustomerAPI.ApplicationCore\obj\Debug\net5.0\CustomerAPI.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.CustomerAPI\CustomerAPI.ApplicationCore\obj\Debug\net5.0\CustomerAPI.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.CustomerAPI\CustomerAPI.ApplicationCore\obj\Debug\net5.0\CustomerAPI.ApplicationCore.AssemblyInfo.cs
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.CustomerAPI\CustomerAPI.ApplicationCore\obj\Debug\net5.0\CustomerAPI.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.CustomerAPI\CustomerAPI.ApplicationCore\obj\Debug\net5.0\CustomerAPI.ApplicationCore.csproj.CopyComplete
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.CustomerAPI\CustomerAPI.ApplicationCore\obj\Debug\net5.0\CustomerAPI.ApplicationCore.dll
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.CustomerAPI\CustomerAPI.ApplicationCore\obj\Debug\net5.0\ref\CustomerAPI.ApplicationCore.dll
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.CustomerAPI\CustomerAPI.ApplicationCore\obj\Debug\net5.0\CustomerAPI.ApplicationCore.pdb

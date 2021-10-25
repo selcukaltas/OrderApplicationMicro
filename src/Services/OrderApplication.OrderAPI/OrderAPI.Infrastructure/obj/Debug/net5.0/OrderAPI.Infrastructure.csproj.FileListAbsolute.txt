@@ -1,0 +1,17 @@
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.Infrastructure\bin\Debug\net5.0\OrderAPI.Infrastructure.deps.json
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.Infrastructure\bin\Debug\net5.0\OrderAPI.Infrastructure.dll
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.Infrastructure\bin\Debug\net5.0\ref\OrderAPI.Infrastructure.dll
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.Infrastructure\bin\Debug\net5.0\OrderAPI.Infrastructure.pdb
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.Infrastructure\bin\Debug\net5.0\OrderAPI.ApplicationCore.dll
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.Infrastructure\bin\Debug\net5.0\OrderApplication.Shared.dll
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.Infrastructure\bin\Debug\net5.0\OrderAPI.ApplicationCore.pdb
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.Infrastructure\bin\Debug\net5.0\OrderApplication.Shared.pdb
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.Infrastructure\obj\Debug\net5.0\OrderAPI.Infrastructure.csprojAssemblyReference.cache
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.Infrastructure\obj\Debug\net5.0\OrderAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.Infrastructure\obj\Debug\net5.0\OrderAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.Infrastructure\obj\Debug\net5.0\OrderAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.Infrastructure\obj\Debug\net5.0\OrderAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.Infrastructure\obj\Debug\net5.0\OrderAPI.Infrastructure.csproj.CopyComplete
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.Infrastructure\obj\Debug\net5.0\OrderAPI.Infrastructure.dll
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.Infrastructure\obj\Debug\net5.0\ref\OrderAPI.Infrastructure.dll
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.Infrastructure\obj\Debug\net5.0\OrderAPI.Infrastructure.pdb

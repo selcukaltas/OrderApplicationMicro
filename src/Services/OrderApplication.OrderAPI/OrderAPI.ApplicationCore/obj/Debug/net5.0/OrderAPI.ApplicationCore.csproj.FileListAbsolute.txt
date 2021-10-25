@@ -1,0 +1,15 @@
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.ApplicationCore\bin\Debug\net5.0\OrderApplication.Shared.dll
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.ApplicationCore\obj\Debug\net5.0\OrderAPI.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.ApplicationCore\obj\Debug\net5.0\OrderAPI.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.ApplicationCore\obj\Debug\net5.0\OrderAPI.ApplicationCore.AssemblyInfo.cs
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.ApplicationCore\obj\Debug\net5.0\OrderAPI.ApplicationCore.csprojAssemblyReference.cache
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.ApplicationCore\bin\Debug\net5.0\OrderAPI.ApplicationCore.deps.json
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.ApplicationCore\bin\Debug\net5.0\OrderAPI.ApplicationCore.dll
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.ApplicationCore\bin\Debug\net5.0\ref\OrderAPI.ApplicationCore.dll
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.ApplicationCore\bin\Debug\net5.0\OrderAPI.ApplicationCore.pdb
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.ApplicationCore\bin\Debug\net5.0\OrderApplication.Shared.pdb
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.ApplicationCore\obj\Debug\net5.0\OrderAPI.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.ApplicationCore\obj\Debug\net5.0\OrderAPI.ApplicationCore.csproj.CopyComplete
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.ApplicationCore\obj\Debug\net5.0\OrderAPI.ApplicationCore.dll
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.ApplicationCore\obj\Debug\net5.0\ref\OrderAPI.ApplicationCore.dll
+C:\Users\selcukaltas\source\repos\OrderApplication\Services\OrderApplication.OrderAPI\OrderAPI.ApplicationCore\obj\Debug\net5.0\OrderAPI.ApplicationCore.pdb

@@ -1,0 +1,11 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/{everything}",
+      "ServiceName": "customer",
+      "UpstreamPathTemplate": "/customer-gate/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put","Delete" ],
+      "SwaggerKey": "customer"
+    }
+  ]
+}

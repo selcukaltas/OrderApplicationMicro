@@ -1,0 +1,11 @@
+C:\Users\selcukaltas\source\repos\OrderApplication\Shared\OrderApplication.Shared\bin\Debug\net5.0\OrderApplication.Shared.deps.json
+C:\Users\selcukaltas\source\repos\OrderApplication\Shared\OrderApplication.Shared\bin\Debug\net5.0\OrderApplication.Shared.dll
+C:\Users\selcukaltas\source\repos\OrderApplication\Shared\OrderApplication.Shared\bin\Debug\net5.0\ref\OrderApplication.Shared.dll
+C:\Users\selcukaltas\source\repos\OrderApplication\Shared\OrderApplication.Shared\bin\Debug\net5.0\OrderApplication.Shared.pdb
+C:\Users\selcukaltas\source\repos\OrderApplication\Shared\OrderApplication.Shared\obj\Debug\net5.0\OrderApplication.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selcukaltas\source\repos\OrderApplication\Shared\OrderApplication.Shared\obj\Debug\net5.0\OrderApplication.Shared.AssemblyInfoInputs.cache
+C:\Users\selcukaltas\source\repos\OrderApplication\Shared\OrderApplication.Shared\obj\Debug\net5.0\OrderApplication.Shared.AssemblyInfo.cs
+C:\Users\selcukaltas\source\repos\OrderApplication\Shared\OrderApplication.Shared\obj\Debug\net5.0\OrderApplication.Shared.csproj.CoreCompileInputs.cache
+C:\Users\selcukaltas\source\repos\OrderApplication\Shared\OrderApplication.Shared\obj\Debug\net5.0\OrderApplication.Shared.dll
+C:\Users\selcukaltas\source\repos\OrderApplication\Shared\OrderApplication.Shared\obj\Debug\net5.0\ref\OrderApplication.Shared.dll
+C:\Users\selcukaltas\source\repos\OrderApplication\Shared\OrderApplication.Shared\obj\Debug\net5.0\OrderApplication.Shared.pdb
