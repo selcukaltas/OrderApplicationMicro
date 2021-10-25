@@ -1,7 +1,7 @@
 # OrderApplicationMicro
 This project micro service implementation for order and customer domains. The ddd approach has been tried to be taken as an example.
 
-#Requirements
+# Requirements
 
 * .NET 5
 * .SQLSERVER
